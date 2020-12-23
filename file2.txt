@@ -1,1 +1,3 @@
 learning Git.
+
+change for fast-forward merge check.
