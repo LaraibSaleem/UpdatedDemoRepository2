@@ -3,3 +3,5 @@ hello world.
 another change for checking git revert using smartgit.
 
 change for fast-forward merge check.
+
+SmartGit change for fast-forward merge check.
